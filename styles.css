@@ -5,4 +5,6 @@ h1 {
     border-color: navy;
     border-width: 1px;
     border-style: solid;
+    background-image: url("untitled.png");
+    background-size: 100%;
 }
